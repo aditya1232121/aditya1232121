@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Dhyani</h1>
+<h1 align="center">Hi 👋, I'm Aditya Dhyani</h1> 
 <h3 align="center">Turning ideas into interactive, responsive, and visually stunning digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya1232121&label=Profile%20views&color=0e75b6&style=flat" alt="aditya1232121" /> </p>
