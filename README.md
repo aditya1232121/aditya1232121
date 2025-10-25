@@ -60,8 +60,4 @@
 ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya1232121&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1232121&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=aditya1232121&theme=radical)
 
-## 👁 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/aditya1232121/count.svg)
